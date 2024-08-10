@@ -30,7 +30,7 @@ export const data = [
         title: "PlayPal",
         img_src: IMG2,
         img_alt: "Svelte's stylized S logo in front of programming syntax on monitor",
-        type: "FULLSTACK",
+        type: "FRONTEND",
         techList: ["Svelte", "Firebase", "Axios", "MomentJS", "TalkJS", "External API"],
         description: "The app is a video game review and social app where users can rate video games and connect with other app users via a messaging and calendar features. The app was created in a team using pair-programming working in a short time frame to deliver an MVP product.",
         link_Github: "https://github.com/EmoryBrock-Portfolio/PlayPal-FrontEnd",

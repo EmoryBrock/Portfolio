@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 75vh; //modified to keep socials in place relatively
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -65,17 +65,20 @@ header {
 /* Media Queries (Medium Devices) */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 55vh;
     }
 } 
 
 /* Media Queries (Small Devices */
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 50vh;
     }
 
+    /*
+    deactivated code to socials are shown on small screen
+    
     .header__socials, .scroll__down {
         display: none;
-    }
+    } */
 }
