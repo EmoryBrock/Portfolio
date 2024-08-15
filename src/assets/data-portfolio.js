@@ -12,7 +12,7 @@ export const data = [
         techList: ["PostgreSQL", "Express", "Node", "Jest"],
         description: "This is the backend part of the news-like app. Test-driven development was used to create a custom API for use by the frontend NC news project.",
         link_Github: 'https://github.com/EmoryBrock-Portfolio/BE-NC-News',
-        link_Demo: "" 
+        link_Demo: "https://eb-nc-news.onrender.com/api" 
     },
     {
         id: 2,
@@ -22,8 +22,8 @@ export const data = [
         type: "FRONTEND",
         techList: ["React", "Javascript", "Axios"],
         description: "The frontend part of the news-like app. User can view, like and leave comments on articles.",
-        link_Github: '',
-        link_Demo: "" 
+        link_Github: 'https://github.com/EmoryBrock-Portfolio/FE-NC-News.git',
+        link_Demo: "https://eb-ncnews.netlify.app/" 
     },
     {
         id: 3,
@@ -34,7 +34,7 @@ export const data = [
         techList: ["Svelte", "Firebase", "Axios", "MomentJS", "TalkJS", "External API"],
         description: "The app is a video game review and social app where users can rate video games and connect with other app users via a messaging and calendar features. The app was created in a team using pair-programming working in a short time frame to deliver an MVP product.",
         link_Github: "https://github.com/EmoryBrock-Portfolio/PlayPal-FrontEnd",
-        link_Demo:""
+        link_Demo:"https://northcoders.com/project-phase/playpal"
     },
     {
         id: 4,
