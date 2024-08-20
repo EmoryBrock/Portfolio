@@ -1,7 +1,6 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA.jsx'
-// import CV from ' (asset folder)'
 import ME from "../../assets/eb_vector_me-01.png"
 import HeaderSocials from './HeaderSocials.jsx'
 
